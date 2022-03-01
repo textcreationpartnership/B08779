@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The civil articles of Limerick exactly printed from the letters patent wherein they are ratified and exemplified by Their  Majesties, under the great seal of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08779</idno>
+            <idno type="STC">Wing C4363A</idno>
+            <idno type="STC">ESTC R174070</idno>
+            <idno type="EEBO-CITATION">62369121</idno>
+            <idno type="OCLC">ocm 62369121</idno>
+            <idno type="VID">187847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187847)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2846:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The civil articles of Limerick exactly printed from the letters patent wherein they are ratified and exemplified by Their  Majesties, under the great seal of England.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Parallel English and French texts.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+                  <note>Parallel English and French texts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  17th century</term>
+               <term>Limerick (Limerick, Ireland) --  History --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187847:1"/>
+            <p>THE CIVIL ARTICLES OF <hi>LIMERICK,</hi> Exactly Printed from the Letters Patent.</p>
+            <p>Wherein they are Ratified and Exemplified by their MA<g ref="char:EOLhyphen"/>JESTIES, under the Great Seal of <hi>ENGLAND.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="charter">
+               <pb n="2" facs="tcp:187847:2"/>
+               <head>THE Civil ARTICLES OF <hi>LIMERICK.</hi>
+               </head>
+               <div type="preamble">
+                  <div xml:lang="lat" type="version">
+                     <opener>
+                        <signed>
+                           <hi>GULIELMUS &amp; Maria Dei Gratia,</hi> Angliae, Scotiae, Fran<g ref="char:EOLhyphen"/>ciae &amp; Hiberniae, Rex &amp; Regina, Fidei Defenſores, <hi>&amp;c.</hi>
+                        </signed>
+                        <salute>
+                           <hi>Om<g ref="char:EOLhyphen"/>nibus</hi> ad quos Praeſentes literae noſtrae pervenerint, ſalutem:</salute>
+                     </opener>
+                     <p>
+                        <hi>In<g ref="char:EOLhyphen"/>ſpeximus</hi> Irrotulament. quarund. literarum patentium de confirmatione geren.</p>
+                     <closer>
+                        <dateline>Dat. apud <hi>Weſtmonaſterium</hi> 
+                           <date>viceſimo quarto die <hi>Februarii,</hi> ultimi Praeteriti in Cancellar. noſtr.</date> Irrotulat. ac ibidem de Recordo remanen. in haec verba.</dateline>
+                     </closer>
+                  </div>
+                  <div xml:lang="eng" type="version">
+                     <opener>
+                        <signed>
+                           <hi>WILLIAM</hi> and <hi>Mary,</hi> by the Grace of God, <hi>&amp;c.</hi>
+                        </signed>
+                        <salute>
+                           <hi>To all</hi> to whom theſe Preſents ſhall come, Greeting.</salute>
+                     </opener>
+                     <p>
+                        <hi>Whereas</hi> certain Articles, bearing Date the third Day of <hi>October</hi> laſt paſt, Made and Agreed on between Our Juſtices of Our Kingdom of <hi>Ireland,</hi> and Our General of Our Forces there on the one Part; and ſeveral Officers there, Command<g ref="char:EOLhyphen"/>ing within the City of <hi>Limerick</hi> in Our ſaid Kingdom, on the other Part. Whereby Our ſaid Juſtices and General did undertake that We ſhould ratify thoſe Articles, within the Space of eight Months, or ſooner; and uſe their utmoſt Endeavours that the ſame ſhould be Ratified and Con<g ref="char:EOLhyphen"/>firmed in Parliament. The Tenour of which ſaid Articles, is as fol<g ref="char:EOLhyphen"/>lows, <hi>viz.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="articles">
+                  <pb n="4" facs="tcp:187847:3"/>
+                  <head>ARTICLES Agreed upon the third Day of <hi>October,</hi> One Thouſand Six Hundred and Ninety One.</head>
+                  <argument>
+                     <p>Between the Right Honourable Sir <hi>Charles Porter,</hi> Knight, and <hi>Thomas Conningsby,</hi> 
+                        <abbr>Eſq</abbr> Lords Juſtices of <hi>Ireland;</hi> and his Excellency the Baron <hi>De Ginckle,</hi> Lieutenant Ge<g ref="char:EOLhyphen"/>neral, and Commander in Chief of the <hi>Engliſh</hi> Army; <hi>On the one Part.</hi>
+                     </p>
+                     <p>And the Right Honourable <hi>Patrick</hi> Earl of <hi>Lucan, Piercy</hi> Viſcount <hi>Gallmoy,</hi> Colonel <hi>Nicholas Purcel,</hi> Colonel <hi>Nicholas Cuſack,</hi> Sir <hi>Toby Butler,</hi> Colonel <hi>Garret Dillon,</hi> and Colonel <hi>John Brown; on the other Part:</hi>
+                     </p>
+                     <p>In the Behalf of the <hi>Iriſh</hi> Inhabitants in the City and Coun<g ref="char:EOLhyphen"/>ty of <hi>Limerick,</hi> the Counties of <hi>Clare, Kerry, Cork, Sligo,</hi> and <hi>Mayo.</hi>
+                     </p>
+                  </argument>
+                  <p>In Conſideration of the Surrender of the City of <hi>Limerick,</hi> and other A<g ref="char:EOLhyphen"/>greements made between the ſaid Lieutenant General <hi>Ginckle,</hi> the Go<g ref="char:EOLhyphen"/>vernor of the City of <hi>Limerick,</hi> and the Generals of the <hi>Iriſh</hi> Army, bearing Date with theſe Preſents, for the Surrender of the ſaid City, and Submiſſion of the ſaid Army: It is agreed, That</p>
+                  <p>ART. I. THE <hi>Roman-Catholicks</hi> of this Kingdom ſhall enjoy ſuch Privileges in the Exerciſe of their Religion, as are con<g ref="char:EOLhyphen"/>ſiſtent with the Laws of <hi>Ireland;</hi> or as they did enjoy in the Reign of
+<pb n="6" facs="tcp:187847:4"/>
+King <hi>Charles</hi> the II<hi rend="sup">d</hi>. And their Majeſties, as ſoon as their Affairs will permit them to ſummon a Parliament in this Kingdom, will endeavour to procure the ſaid <hi>Roman-Catholicks</hi> ſuch farther Security in that Par<g ref="char:EOLhyphen"/>ticular, as may preſerve them from any Diſturbance upon the Account of their ſaid Religion.</p>
+                  <p>ART. II. All the Inhabitants or Reſidents of <hi>Limerick,</hi> or any other Garriſon now in the Poſſeſſion of the <hi>Iriſh,</hi> and all Officers and Soldiers, now in Arms, under any Commiſſion of King <hi>James,</hi> or thoſe authorized by him, to grant the ſame in the ſeveral Counties of <hi>Limerick, Clare, Kerry, Cork</hi> and <hi>Mayo,</hi> or any of them; and all the Commiſſioned Offi<g ref="char:EOLhyphen"/>cers in their Majeſties Quarters, that belong to the <hi>Iriſh</hi> Regiments, now in Being, that are treated with, and who are not Priſonners of War, or have taken Protection, and who ſhall return and ſubmit to their Majeſties Obedience; <hi>and their and every of their Heirs,</hi> ſhall hold, poſſeſs and en<g ref="char:EOLhyphen"/>joy, all and every their Eſtates of Free-hold, and Inheritance; and all the Rights, Titles and Intereſts, Privileges and Immunities, which they, and every, or any of them held, enjoyed, or were rightfully and lawfully in<g ref="char:EOLhyphen"/>titled to, in the Reign of King <hi>Charles</hi> II. or at any Time ſince, by the Laws and Statutes that were in Force in the ſaid Reign of King <hi>Charles</hi> II. and ſhall be put in Poſſeſſion, by Order of the Government, of ſuch of them as are in the King's Hands, or the Hands of his Tenants, without being put to any Suit or Trouble therein; and all ſuch Eſtates ſhall be freed and diſcharged from all Arrears of Crown-rents, Quit-rents, and other publick Charges, incurred and become due ſince <hi>Michaelmas</hi> 1688, to the Day of the Date hereof: And all Perſons comprehended in this <hi>Ar<g ref="char:EOLhyphen"/>ticle,</hi> ſhall have, hold, and enjoy all their Goods and Chattels, real and perſonal, to them, or any of them belonging, and remaining either in their own Hands, or the Hands of any Perſons whatſoever, in Truſt for, or for the Uſe of them, or any of them: <hi>And all and every the ſaid Perſons, of what Profeſſion, Trade, or Calling ſoever they be,</hi> ſhall and may uſe, exerciſe and practiſe their ſeveral and reſpective Profeſſions, Trades and Callings, as freely as they did uſe, exerciſe and enjoy the ſame in the Reign of King <hi>Charles</hi> II. Provided, that nothing in this <hi>Article</hi> contained, be conſtrued to extend to, or reſtore any forfeiting Perſon now out of the Kingdom, except what are hereafter comprized: Provided alſo, That no Perſon whatſoever ſhall have or enjoy the Benefit of this <hi>Article,</hi> that ſhall neglect or refuſe to take the Oath of Allegi<g ref="char:EOLhyphen"/>ance,
+<pb n="8" facs="tcp:187847:5"/>
+made by Act of Parliament in <hi>England,</hi> in the Firſt Year of the Reign of their preſent Majeſties, when thereunto required.</p>
+                  <p>ART. III. All Merchants, or reputed Merchants of the City of <hi>Lime<g ref="char:EOLhyphen"/>rick,</hi> or of any other Garriſon now poſſeſſed by the <hi>Iriſh,</hi> or of any Town or Place in the Counties of <hi>Clare</hi> or <hi>Kerry,</hi> who are abſent be<g ref="char:EOLhyphen"/>yond the Seas, that have not bore Arms ſince their Majeſties Declarati<g ref="char:EOLhyphen"/>on in <hi>February</hi> 1688. ſhall have the Benefit of the ſecond Article, in the ſame Manner, as if they were preſent; <hi>provided,</hi> ſuch Merchants, and reputed Merchants, do repair into this Kingdom within the Space of eight Months after the Date hereof.</p>
+                  <p>ART. IV. The following Officers, <hi>viz.</hi> Colonel <hi>Simon Lutterel,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Rowland White, Maurice Euſtace</hi> of <hi>Yermanſtown, Chievers</hi> of <hi>May<g ref="char:EOLhyphen"/>ſtown,</hi> commonly called <hi>Mount-Leinſter,</hi> now belonging to the Regi<g ref="char:EOLhyphen"/>ments in the aforeſaid Garriſons and Quarters of the <hi>Iriſh</hi> Army, who were beyond the Seas, and ſent thither upon Affairs of their reſpective Regiments, or the <hi>Army</hi> in general, ſhall have the Benefit and Advan<g ref="char:EOLhyphen"/>tage of the ſecond Article; <hi>provided</hi> they return hither within the Space of eight Months from the Date of theſe Preſents, and ſubmit to their Majeſties Government, and take the above mentioned Oath.</p>
+                  <p>ART. V. That all and ſingular, the ſaid Perſons comprized in the ſecond and third Articles, ſhall have a general Pardon of all Attainders, Outlawries, Treaſons, Miſpriſions of Treaſon, Premunires, Felonies, Treſpaſſes, and other Crimes and Miſdemeanors whatſoever, by them, or any of them, committed ſince the beginning of the Reign of King <hi>James</hi> II. and if any of them are Attainted by Parliament, the Lords Juſtices, and General, will uſe their beſt Endeavours to get the ſame re<g ref="char:EOLhyphen"/>pealed by Parliament, and the Outlawries to be reverſed <hi>Gratis,</hi> all but Writing-Clerks Fees.</p>
+                  <p>ART. VI. And whereas theſe preſent Wars have drawn on great Vi<g ref="char:EOLhyphen"/>olences on both Parts, and that if Leave were given to the bringing all Sorts of private Actions, the Animoſities would probably continue, that have have been too long on Foot, and the publick Diſturbances laſt: For the Quieting and Settling therefore of this Kingdom, and avoiding thoſe Inconveniencies which would be the neceſſary Conſequence of the
+<pb n="10" facs="tcp:187847:6"/>
+contrary, no Perſon or Perſons whatſoever, comprized in the foregoing Articles, ſhall be ſued, moleſted, or impleaded at the Suit of any Party or Parties whatſoever, for any Treſpaſſes by them committed, or for any Arms, Horſes, Money, Goods, Chattels, Merchandizes, or Proviſions whatſoever, by them ſeized or taken, during the Time of the War. And no Perſon or Perſons whatſoever, in the ſecond or third Articles comprized, ſhall be ſued, impleaded, or made accountable for the Rents or mean Rates of any Lands, Tenements, or Houſes, by him or them received, or enjoyed in this Kingdom, ſince the Beginning of the preſent War, to the Day of the Date hereof, nor for any Waſte or Treſpaſs, by him or them committed in any ſuch Lands, Tenements, or Houſes: And it is alſo agreed, that this Article ſhall be mutual, and reciprocal, on both Sides.</p>
+                  <p>ART. VII. Every Nobleman and Gentleman comprized in the ſaid ſecond and third Article, ſhall have Liberty to ride with a Sword, and Caſe of Piſtols, if they think fit; and keep a Gun in their Houſes, for the Defence of the ſame, or for Fowling.</p>
+                  <p>ART. VIII. The Inhabitants and and Reſidents in the City of <hi>Lime<g ref="char:EOLhyphen"/>rick,</hi> and other Garriſons, ſhall be permitted to remove their Goods, Chattels, and Proviſions, out of the ſame, without being viewed and ſearched, or paying any Manner of Duties, and ſhall not be compelled to leave the Houſes or Lodgings they now have, for the Space of ſix Weeks next enſuing the Date hereof.</p>
+                  <p>ART. IX. The Oath to be adminiſtred to ſuch <hi>Roman-Catholicks</hi> as ſub<g ref="char:EOLhyphen"/>mit to their Majeſties Government, ſhall be the Oath aboveſaid, and no other.</p>
+                  <p>ART. X. No Perſon or Perſons, who ſhall at any Time hereafter break theſe Articles, or any of them, ſhall thereby make, or cauſe any other Perſon or Perſons, to forfeit or loſe the Benefit of the ſame.</p>
+                  <p>ART. XI. The Lords Juſtices<note n="*" place="bottom">Theſe Lords Juſtices were then Lords of the Regency in <hi>Ireland,</hi> as there was no Lord Lieutenant there.</note> and General do promiſe to uſe their utmoſt Endeavours, that all the Perſons comprehended in the above mentioned Articles, ſhall be protected and defended from all Arreſts and Executions for Debt or Damage, for the Space of eight Months, next enſuing the Date hereof.</p>
+                  <p>ART. XII. The Lords Juſtices and General do undertake, that their
+<pb n="12" facs="tcp:187847:7"/>
+Majeſties will ratify theſe Articles, within the Space of eight Months, or ſooner, and uſe their utmoſt Endeavours, that the ſame ſhall be rati<g ref="char:EOLhyphen"/>fied and confirmed in Parliament.</p>
+                  <p>ART. XIII. Laſtly, And whereas Colonel <hi>John Brown</hi> ſtood indebted to ſeveral Proteſtants, by Judgments of Record; which appearing to the late Government, the Lord <hi>Tyrconnel,</hi> and Lord <hi>Lucan,</hi> took away the Effects the ſaid <hi>John Brown</hi> had to anſwer the ſaid Debts, and promiſed to clear the ſaid <hi>John Brown</hi> of the ſaid Debts; which Effects were ta<g ref="char:EOLhyphen"/>ken for the publick Uſe of the <hi>Iriſh,</hi> and their Army: For freeing the ſaid Lord <hi>Lucan</hi> of his ſaid Engagement, paſſed on their publick Ac<g ref="char:EOLhyphen"/>count, for Payment of the ſaid Proteſtants, and for preventing the Ru<g ref="char:EOLhyphen"/>ine of the ſaid <hi>John Brown,</hi> and for Satisfaction of his Creditors, at the Inſtance of the Lord <hi>Lucan,</hi> and the reſt of the Perſons aforeſaid, it is agreed, That the ſaid Lords Juſtices, and the ſaid Baron <hi>de Ginckle,</hi> ſhall intercede with the King and Parliament, to have the Eſtates ſecured to <hi>Roman-Catholicks,</hi> By Articles and Capitulation in this Kingdom, charged with, and equally liable to the Payment of ſo much of the ſaid Debts, as the ſaid Lord <hi>Lucan,</hi> upon ſtating Accompts with the ſaid <hi>John Brown,</hi> ſhall certify under his Hand, that the Effects taken from the ſaid <hi>Brown</hi> amount unto; which Accompt is to be ſtated, and the Ba<g ref="char:EOLhyphen"/>lance certified by the Lord <hi>Lucan</hi> in one and twenty Days after the Date hereof:</p>
+                  <closer>
+                     <signed>For the true Performance hereof, We have hereunto ſet our Hands,
+<list>
+                           <head>Preſent,</head>
+                           <item>
+                              <hi>Scravemore.</hi>
+                           </item>
+                           <item>
+                              <hi>H. Maccay.</hi>
+                           </item>
+                           <item>
+                              <hi>T. Talmaſh.</hi>
+                           </item>
+                           <item>
+                              <hi>Char. Porter.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Coningſby.</hi>
+                           </item>
+                           <item>Bar. <hi>De Ginckle.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="confirmation">
+                  <p>
+                     <hi>AND Whereas</hi> the ſaid City of <hi>Limerick</hi> hath been ſince, in Purſu<g ref="char:EOLhyphen"/>ance of the ſaid Articles, ſurrendered unto Us, <hi>Now know ye,</hi> that We having conſidered of the ſaid Articles, are graciouſly pleaſed hereby to declare, that We do for Us, Our Heirs and Succeſſors, as far as in Us lies, ratifie and confirm the ſame, and every Clauſe, Matter and Thing therein contained. And as to ſuch Parts thereof, for which an Act of Parliament ſhall be found to be neceſſary, We ſhall recommend the ſame
+<pb n="14" facs="tcp:187847:8"/>
+to be made good by Parliament, and ſhall give Our Royal Aſſent to any Bill or Bills, that ſhall be paſſed by Our two Houſes of Parliament to that Purpoſe. <hi>And whereas</hi> it appears unto Us, that it was agreed between the Parties to the ſaid Articles, that after the Words, <hi>Limerick, Clare, Kerry, Cork, Mayo,</hi> or any of them, in the ſecond of the ſaid Articles, the Words following, <hi>viz. And all ſuch as are under their Protection in the ſaid Counties,</hi> ſhould be inſerted, and be Part of the ſaid Articles: Which Words having been caſually omitted by the Writer, the Omiſſi<g ref="char:EOLhyphen"/>on was not diſcovered till after the ſaid Articles were ſigned, but was ta<g ref="char:EOLhyphen"/>ken Notice of before the ſecond Town was ſurrendred: And that Our ſaid Juſtices, and General, or one of them, did promiſe that the ſaid Clauſe ſhould be made good, it being within the Intention of the Capitulation, and inſerted in the foul Draught thereof: <hi>Our further Will and Plea<g ref="char:EOLhyphen"/>ſure is,</hi> and We do hereby ratify and confirm the ſaid omitted Words, <hi>viz. [And all ſuch as are under their Protection in the ſaid Counties]</hi> Hereby for Us, Our Heirs and Succeſſors, ordaining and declaring, that all and every Perſon and Perſons therein concerned, ſhall and may have, receive, and enjoy the Benefit thereof, in ſuch and the ſame Manner, as if the ſaid Words had been inſerted in their proper Place, in the ſaid ſe<g ref="char:EOLhyphen"/>cond Article; any Omiſſion, Defect, or Miſtake in the ſaid ſecond Arti<g ref="char:EOLhyphen"/>cle, in any wiſe notwithſtanding. <hi>Provided</hi> always, and Our Will and Pleaſure is, that theſe Our Letters Patents ſhall he enrolled in Our Court of <hi>Chancery</hi> in Our ſaid Kingdom of <hi>Ireland,</hi> within the Space of one Year next enſuing. <hi>In Witneſs,</hi> &amp;c. <hi>Witneſs</hi> Our Seal at <hi>Weſtminſter,</hi> the twenty fourth Day of <hi>February, Anno Regni Regis &amp; Reginae</hi> Gulielmi <hi>&amp;</hi> Mariae <hi>Quarto per Breve de Privato Sigillo.</hi> Nos <hi>autem Tenorem Pre<g ref="char:EOLhyphen"/>miſſor. Predict. Ad Requiſitionem Attornat. General. Domini Regis &amp; Do<g ref="char:EOLhyphen"/>minae Reginae pro Regno</hi> Hiberniae. <hi>duximus exemplificand. per Preſentes.</hi> In cujus <hi>Rei Teſtimonium has literas noſtras fieri fecimus Patentes.</hi> Teſtibus <hi>nobis ipſis apud</hi> Weſtmon. <hi>Quinto die</hi> Aprilis, <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni eorum Quarto.</hi>
+                  </p>
+                  <closer>
+                     <signed>BRIDGES.
+<list>
+                           <item>
+                              <hi>Examinat. per nos</hi> S. Keck <hi>In Cancel. Magiſtros</hi>
+                           </item>
+                           <item>
+                              <hi>Examinat. per nos</hi> Lacon W<hi rend="sup">m</hi>. Childe <hi>In Cancel. Magiſtros</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="oath">
+               <pb facs="tcp:187847:9"/>
+               <head>The Oath of Fidelity or Allegiance required by the ſecond Article of this Treaty.</head>
+               <p>I <hi>A. B.</hi> do ſincerely Promiſe and Swear, that I will be faithful, and bear true Allegiance to their Majeſties King <hi>William</hi> and Queen <hi>Mary.</hi>
+               </p>
+               <closer>So Help me God.</closer>
+            </div>
+            <div xml:lang="fre" type="charter">
+               <pb facs="tcp:187847:9"/>
+               <pb facs="tcp:187847:1"/>
+               <head>LES ARTICLES CIVILES DE <hi>LIMERICK,</hi> TIREZ DES Lettres Patentes.</head>
+               <p>Par leſquelles ils ſont Ratifiez &amp; Prouvés par leurs MA<g ref="char:EOLhyphen"/>JESTEZ ſous le Grand Seau d'ANGLETERRE.</p>
+               <div type="preamble">
+                  <pb n="3" facs="tcp:187847:2"/>
+                  <head>LES ARTICLES Civiles DE <hi>LIMERICK.</hi>
+                  </head>
+                  <div xml:lang="lat" type="version">
+                     <opener>
+                        <signed>
+                           <hi>GULIELMUS &amp; Maria Dei Gratia,</hi> Angliae, Scotiae, Fran<g ref="char:EOLhyphen"/>ciae, &amp; Hiberniae, Rex &amp; Regina, Fidei Defenſores, <hi>&amp;c.</hi>
+                        </signed>
+                        <salute>
+                           <hi>Om<g ref="char:EOLhyphen"/>nibus</hi> ad quos Praeſentes literae noſtrae pervenerint, ſalutem:</salute>
+                     </opener>
+                     <p>
+                        <hi>In<g ref="char:EOLhyphen"/>ſpeximus</hi> Irrotulament. quarund. literarum patentium de confirmatione geren.</p>
+                     <closer>
+                        <dateline>Dat. apud <hi>Weſtmonaſterium</hi> 
+                           <date>viceſimo quarto die <hi>Februarii,</hi> ultimi praeteriti in Cancellar. noſtr.</date> Irrotulat. ac ibidem de Recordo remanen. in haec verba.</dateline>
+                     </closer>
+                  </div>
+                  <div xml:lang="fre" type="version">
+                     <opener>
+                        <signed>GUILLAUME &amp; Marie par la grace de Dieu, &amp;c.</signed>
+                        <salute>à tous ceux qui ces preſentes verront, ſalût.</salute>
+                     </opener>
+                     <p>Comme de certains Articles en date du troiſi<g ref="char:EOLhyphen"/>ême Octobre dernier, faits &amp; conclûs par nos juſticiers de nôtre Roy<g ref="char:EOLhyphen"/>aume d'Irlande, &amp; le General de nos armées dans le dit païs d'une part; &amp; pluſieurs officiers commandans dans la ville de Limerick dans nôtre dit Royaume de l'autre part: par leſquels Articles nos dits Juſticiers &amp; General ſe ſeroient engagez, à ce que nous ratifierions les dits Articles dans huit mois ou même plutôt, &amp; qu'ils feroient tout leur poſſible pour les faire auſſi ratifier &amp; confirmer en Parlement. La teneur des dits Articles eſt il s'enſuit.</p>
+                  </div>
+               </div>
+               <div xml:lang="fre" type="articles">
+                  <pb n="5" facs="tcp:187847:3"/>
+                  <head>ARTICLES Faits &amp; paſſez le troiſiême Octobre 1691.</head>
+                  <p>Entre le Chevalier Charles Porter, le ſieur Thomas Con<g ref="char:EOLhyphen"/>ningſby Ecuyer ſeigneurs Juſticiers d'Irlande, &amp; ſon Excellence le Baron Ginckle, Lieutenant General, &amp; Commandeur en chef de l'armée Angloiſe <hi>d'une part.</hi>
+                  </p>
+                  <p>Et le ſeigneur Patrice Conte de Lucan, le ſieur Piercy Vi<g ref="char:EOLhyphen"/>conte de Galmoy, le ſieurs Nicolas Purcel Colonel, Ni<g ref="char:EOLhyphen"/>colas Cuſack Colonel, le Chevalier Theobald Butler, le ſieurs Garret Dillon Colonel, &amp; Jean Brown Colonel, <hi>d'autre part.</hi>
+                  </p>
+                  <p>Et ſtipulés pour les habitans Irlandois de la ville &amp; Com<g ref="char:EOLhyphen"/>té de Lymerick, les Comtés de Clare, Kerry, Cork, Sligo, &amp; Mayo.</p>
+                  <p>En conſideration de la reddition de la ville de Limerick, &amp; autres ſtipu<g ref="char:EOLhyphen"/>lations paſſées entre le dit Lieutenant General Ginckle, le Gouver<g ref="char:EOLhyphen"/>neur de la ville de Limerick, &amp; les Generaux de l'armée Irlandoiſe, de la même date, que les preſentes, à cauſe de la reddition de la dite ville &amp; ſoumiſſion de la dite armée, ou eſt convenue que,</p>
+                  <p>ART. I. LES Catholiques Romains de ce Royaume jouiront dans l'éxerciſe de leure religion de tous privileges non contraires aux Loix d'Irlande, ou comme ils en ont jouis ſous le regne du Roy Charles
+<pb n="7" facs="tcp:187847:4"/>
+Second. Et leurs Majeſtez, auſſi tôt que la ſituation de leurs affaires leur permettra de convoquer un Parlement en ce Royaume, tacheront de pro<g ref="char:EOLhyphen"/>curer aux dits Catholiques Romains toutes les autres ſeuretez neceſſaires pour empêcher qu'ils ne ſoient aucunement inquietez ni moleſtez pour cauſe de Religion.</p>
+                  <p>ART. II. Tous les habitans &amp; autres qui reſident à Lymerick ou dans aucune autre des garniſons actuellement dans la poſſeſſion des Irlandois &amp; tous officiers &amp; ſoldats portants armes par commiſſion du Roy Jacques, ou de ceux par luy authoriſez pour cet effet dans les Comtez de Lime<g ref="char:EOLhyphen"/>rick, de Clare, Kerry, Corke, &amp; Mayo, ou dans aucune Comté d'icelles, &amp; tous les officiers en Commiſſion qui ſe trouvent dans les quartiers de leures Majeſtez, &amp; ſervent dans les regimens Irlandois qui ſont actuelle<g ref="char:EOLhyphen"/>ment en pied &amp; avec leſquels ſe fait le preſent traitté, &amp; ne ſont pas pri<g ref="char:EOLhyphen"/>ſonniers de guerre, ou ont accepté ſauvegarde ou protection, &amp; qui vou<g ref="char:EOLhyphen"/>dront revenir &amp; ſe ſoumettre à l'obeiſſance de leures majeſtez, tous &amp; chacun de leurs heritiers tiendront, poſſederont &amp; joûiront de tous &amp; cha<g ref="char:EOLhyphen"/>cun de leurs terres biens en fond &amp; autres biens &amp; heritages, &amp; de tous les droits, titres, intereſts, privileges, &amp; immunitez ou franchiſes, dont eux ou aucun deux ont jouis ou avoit droit de jouir ſous le regne de Charles Se<g ref="char:EOLhyphen"/>cond, ou dans aucun autre tems du depuis ſelon les loix &amp; ordonnances alors en force; &amp; ſeront mis en poſſeſſion par ordre du gouvernement, paiſible<g ref="char:EOLhyphen"/>ment &amp; ſans procés ni autres diligences, de telles parties de leurs biens qui ſe trouvent entre les mains du Roy ou de ſes fermiers. Et tous les biens de cette nature ſeront libres &amp; dechargez de tout arrerage de rentes royales &amp; autres rentes ou impos publics eſtablis &amp; echûs depuis la ſainte Michel de l'année 1688 juſqu'au jour de la datte du preſent traitté: Et tou<g ref="char:EOLhyphen"/>tes les perſonnes compriſes dans cet article, auront, tiendront &amp; jouiront de tous leurs biens meubles &amp; immubles à eux ou à aucun d'eux apppar<g ref="char:EOLhyphen"/>tenans &amp; reſtans, ſoit entre leurs propres mains ou les mains de ceux par eux employez par fidei commis &amp; confiance, pour menager leurs intereſts. Et toutes &amp; chacune des dites perſonnes de quelque profeſſion, mêtier ou vacation qu'elles ſoient pourront ſuivre &amp; exercer leurs dites profeſſions ou mêtiers avec la même franchiſe &amp; liberté qu'elles ont eu ſous le Reg<g ref="char:EOLhyphen"/>ne de Charles Second, pourveu que rien du contenu de cet article ne pu<g ref="char:EOLhyphen"/>iſſe s'étendre ni eſtre expliqué pour retablir les perſonnes actuellement hors du Royaume dont les biens ſont ſujets a Confiſcation, à l'exception neanmoins de ceux cy après compris. Pourveu auſſi que perſonne ne pu<g ref="char:EOLhyphen"/>iſſe participer des avantages portez par cet article qui negligera ou refu<g ref="char:EOLhyphen"/>ſera
+<pb n="9" facs="tcp:187847:5"/>
+de pretter lorſqu'il en ſera requis le ſerment de fidelité porté par acte du parlement d'Angleterre la premiere année du Regne du Roy &amp; de la Reine d'aujourd'huy.</p>
+                  <p>ART. III. Tous marchands ou reputez marchands de la ville de Ly<g ref="char:EOLhyphen"/>merick, ou d'aucune autre garniſon à cette heure dans la poſſeſſion des Irlandois, ou d'aucune autre ville ou place dans les comtez de Clare &amp; Kerry, qui ſont abſens au de la des mers, &amp; qui n'ont point porté les ar<g ref="char:EOLhyphen"/>mes contre leurs Majeſtez depuis la declaration de leurs Majeſtez pub<g ref="char:EOLhyphen"/>lié au mois de Fevrier 1688. auront &amp; participeront des avantages du ſecond Article tout comme s'ils avoient été preſens; pourveu que les marchands ou reputez marchands s'en reviennent au Royaume dans l'éſpace de huit mois à comter de la date des preſens.</p>
+                  <p>ART. IV. Les officiers, dont les noms s'enſuivent, ſçavoir, le Col<g ref="char:EOLhyphen"/>lonel Simon Luttrel, le Capitaine Roland White, les ſieurs Maurice Eu<g ref="char:EOLhyphen"/>ſtace de Manſtown, Chievers de Mayſtowne communement appellé le Lord Montleinſter ſervans actuellement dans les Regimens qui ſont dans les ſuſdites garniſons &amp; quartiers de l'armée Irlandoiſe, qui ont été envoyez hors du pays pour les affaires de leurs Regimens reſpectives ou de l'armée Irlandoiſe en general, recevront &amp; profiteront des avantages de l'article ſecond pourveu qu'ils s'en reviennent au Royaume dans l'éſpace de huit mois, &amp; qu'ils ſe ſoumettent au gouvernement de leur Majeſtez &amp; qu'ils prettent le ſerment cy deſſus ſpecifié.</p>
+                  <p>ART. V. Que toutes &amp; chacune des dites perſonnes compriſes dans le 2<hi rend="sup">d</hi> &amp; 3<hi rend="sup">me</hi> Articles auront une amneſtie ou pardon general de toutes ſortes de convictions, proſcriptions, condemnations par contumace pour crimes de leze Majeſté, de tous crimes puniſſables de mort de toutes au<g ref="char:EOLhyphen"/>tres tranſgreſſions des loix par eux ou aucun d'eux commis depuis le commencement du Regne du Roy Jacques II. Et que ſi aucun d'eux ſoit condemné par Arrêt du Parlement, les ſeigneurs de la Regence &amp; le General tacheront de faire annuller cet Arret de condemnation en Par<g ref="char:EOLhyphen"/>lement &amp; de revoquer les proſcriptions gratis, excepté ce qu'on doit payer aux clercs ecrivains.</p>
+                  <p>ART. VI. Et d'autant que les preſentes Guerres ont attiré ſur les deux parties oppoſées beaucoup de torts &amp; de violences, &amp; que s'il etoit permis aux particuliers d'intenter des procez ſur les dites violences; les animoſi<g ref="char:EOLhyphen"/>tés, qui ont deja duré trop long tems, pourroient encore continuer au dommage du public: Pour donc retablir le repos &amp; la paix de ce Roy<g ref="char:EOLhyphen"/>aume, &amp; pour obvier aux inconveniens qui ſeroient la conſequence im<g ref="char:EOLhyphen"/>manquable
+<pb n="11" facs="tcp:187847:6"/>
+de telles procedures, il eſt ſtipulé qu'aucun de ceux qui ſont com<g ref="char:EOLhyphen"/>pris dans les ſuſdits articles ne ſera pourſuivi en juſtice, ou aucunement moleſté à la requiſition de qui que ce ſoit, pour aucunes tranſgreſſions des loix, pour aucun enlevement ou ſaiſies d'armes, de chevaux, d'argent, de hardes, meubles ou marchandiſes, proviſions par eux faites durant la guerre; ny ne ſera aucun de ceux qui ſont compris dans le ſecond ou troiſiême Article, aſſigné cité en droit, ni rendu reſponſable des rentes uſufruits, &amp; poſſeſſions d'aucunes terres, biens en fonds ou maiſons par eux ou aucun d'eux receus ou ſaiſis depuis le commencement de la pre<g ref="char:EOLhyphen"/>ſente Guerre juſques au jour de la datte des preſens; ni d'aucun degats, de<g ref="char:EOLhyphen"/>periſſemens ou deſordres par eux ou aucun d'eux commis: Il eſt auſſi ſti<g ref="char:EOLhyphen"/>pulé que cet Article ſera mutuel &amp; reciproque aux deux parties.</p>
+                  <p>ART. VII. Tous Seigneurs ou gentilſhommes compris dans les ſecond &amp; troiſiême Articles cy deſſus auront la liberté d'aller par tout avec l'épée &amp; une paire de Piſtolets, &amp; d'avoir un fuſil chez eux, ſoit pour la deffenſe de leur maiſon ou pour la chaſſe.</p>
+                  <p>ART. VIII. Il ſera permi à tous les habitans &amp; autres qui reſident à Limerick ou dans les autres Garniſons d'emporter leurs biens, meubles, hardes &amp; proviſions ſans être viſitez ni fouillez, &amp; ſans payer aucuns droits, &amp; ne ſeront tenus de quitter les maiſons ou logis qu'ils occupent actuellement de ſix ſemaines, à compter de la datte du preſent Traitté.</p>
+                  <p>ART. IX. Le ſerment que l'on fera prêter aux Catholiques Romains, qui ſe ſoumettront au gouvernement de leures Majeſtéz Regnantes, ſera celuy cy deſſus ſpecifié &amp; point d'autre.</p>
+                  <p>ART. X. Si quelqu'un contrevient aux preſens Articles ou à quel<g ref="char:EOLhyphen"/>qu'un d'iceux, il n'excluera pas par la aucune autre perſonne des avan<g ref="char:EOLhyphen"/>tages y portez.</p>
+                  <p>ART. XI. Les Lords Juſticiers<note n="*" place="bottom">Les Lords Juſticiers etoient alors ſeigneurs de la Regence en Irlande par ce qu'il <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'y avoit pas de Viceroy.</note> &amp; le General promettent de faire tout leur poſſible pour que toutes les perſonnes compriſes dans les Arti<g ref="char:EOLhyphen"/>cles cy deſſus ſoient protegées &amp; miſes à couvert contre tous arreſts, pour<g ref="char:EOLhyphen"/>ſuites, ou executions pour dettes ou dommages, durant huit mois après la datte des preſens.</p>
+                  <p>ART. XII. Les Lords Juſticiers &amp; le General s'éngagent que leurs
+<pb n="13" facs="tcp:187847:7"/>
+Majeſtez ratifieront ces Preſens Articles dans huit mois d'icy, ou même plutôt, &amp; feront de leur mieux pour qu'ils ſoient auſſi ratifiez &amp; con<g ref="char:EOLhyphen"/>firmez en Parlement.</p>
+                  <p>ART. XIII. Finalement, Comme le Colonel Jean Brown ſe trouva en<g ref="char:EOLhyphen"/>detté à pluſieurs proteſtans par jugemens enregiſtrez, &amp; que le dernier gouvernement en fût informé, les Lords Tyrconnel &amp; Lucan enleverent les effets que le dit Jean Brown avoit pour payer ſes dites dettes, dont ils promirent de le faire decharger, &amp; ces effets furent employez à l'uſage &amp; au ſervice commun des Irlandois &amp; de leure armée. Pour liberer donc le dit Lord Lucan de ſon dit engagement contracté pour leure cauſe com<g ref="char:EOLhyphen"/>mune, comme auſſi pour ſatisfaire les dits proteſtans &amp; empêcher la ru<g ref="char:EOLhyphen"/>ine du dit Jean Brown, &amp; contenter ſes creanciers, nous ſommes conve<g ref="char:EOLhyphen"/>nus à l'inſtance du dit Lord Lucan, &amp; des autres perſonnes cy deſſus mentionnées que les dits Lords Juſticiers, &amp; le dit Baron Ginckle, inter<g ref="char:EOLhyphen"/>cederont auprès du Roy &amp; du Parlement pour conſerver par Articles &amp; capitulation aux Catholiques Romains dans ce Royaume leur biens meu<g ref="char:EOLhyphen"/>bles &amp; immeubles, chargez &amp; egalement affectez au payement des dites dettes, juſqu'à la concurrence de ce que valoient les dits effets enlevez au dit Jean Brown, ſuivant le certificat qu'en donnera par ecrit ſigné de luy le dit Lord Lucan après avoir compté avec le dit Jean Brown; le dit Compte ſera dreſſé &amp; la balance d'iceluy certifié par le dit Lord Lucan dans vingt &amp; un jours de la date des preſens.</p>
+                  <closer>
+                     <signed>Pour l'accompliſſement de tout ce que deſſus nous avons ſignez, Preſens,
+<list>
+                           <item>
+                              <hi>Scravemore.</hi>
+                           </item>
+                           <item>
+                              <hi>H. Maccay.</hi>
+                           </item>
+                           <item>
+                              <hi>T. Talmaſh.</hi>
+                           </item>
+                           <item>
+                              <hi>Char. Porter.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Coningſby.</hi>
+                           </item>
+                           <item>Bar. <hi>De Ginckle.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div xml:lang="fre" type="confirmation">
+                  <p>ET comme la dite ville de Limerick nous à êté livrée du dépuis ſui<g ref="char:EOLhyphen"/>vant les dits Articles, ſçavoir faiſons que Nous ayant conſideré les dits Articles avons bien voulu declarer par ces preſentes, que nous ratifi<g ref="char:EOLhyphen"/>ons &amp; confirmons, tant pour nous que pour nos heritiers &amp; ſucceſſeurs autant que de nos depends, les dits Articles &amp; chaque clauſe &amp; condi<g ref="char:EOLhyphen"/>tion y portées. Et quant à ce qui en requiert un acte confirmatif du parlement nous en recommanderons l'accompliſſement au dit parlement
+<pb n="15" facs="tcp:187847:8"/>
+&amp; donnerons nôtre agréement &amp; approbation à tous acte ou actes qui paſ<g ref="char:EOLhyphen"/>ſeront à ce ſujet dans les deux chambres de nôtre parlement, &amp; comme il nous appert qu'il a été convenu entre les parties ſtipulantes qu'après les mots Limerick, Clare, Kerry, Corke, Mayo, ou aucun d'iceux ſpecifiéz au deuxieme article, les mots ſuivans ſçavoir, <hi>&amp; tous ceux qui ſont ſous leurs protections dans les dites comtés</hi> ſeront inſerez &amp; feront partie des dits Articles. Leſquels mots ayant êté omis caſuellement par l'écrivain, l'omiſſion n'en a été apperçue qu'après que les dits Articles furent ſignez, mais on s'en apperçeut avant qu'on eut livré la ſeconde ville; &amp; comme nos dits Juſticiers &amp; General ou l'un d'eux ont promis que la dite clauſe auroit lieu ainſi qu'êtoit l'intention des parties ſtipulantes, &amp; qu'elle étoit de même inſerée dans le brouillon de la capitulation, nôtre plaiſir, de plus, eſt, &amp; par ces preſentes nous ratifions &amp; confirmons les dits mots omis, ſçavoir, <hi>&amp; tous ceux qui ſont ſous leurs protections dans les dites com<g ref="char:EOLhyphen"/>tés,</hi> declarant &amp; ordonnant par ces preſentes tant pour nous que pour nos heritiers &amp; ſucceſſeurs que toutes les perſonnes compriſes dans les dites clauſes &amp; conventions auront, recevront &amp; jouiront des avantages d'icel<g ref="char:EOLhyphen"/>les ainſi &amp; de la même maniere qu'elles l'auroient fait, ſi les dits mots euſſent été inſerez dans leur propre place, au dit ſecond Article; &amp; ce non obſtant toute omiſſion defaut ou inadvertence à trouver dans le dit deuxiême Article à la charge, toujours ainſi que nôtre volonté &amp; plaiſir eſt que nos preſentes lettres patentes ſoient enregiſtrées dans nôtre cour de Chancellerie de nôtre dit Royaume d'Irlande dans un an du jour &amp; datte des preſentes. En foy de quoy, &amp;c. Nous ſignons à Weſtminſter le vingt quatre Fevrier, Anno Regni Regis &amp; Reginae <hi>Gulielmi</hi> &amp; <hi>Mariae</hi> Quarto per Breve de Privato Sigillo. Nos autem Tenorem Premiſſor. predict. Ad requiſitionem Attornat. General. Domini Regis &amp; Dominae Reginae pro Regno <hi>Hiberniae</hi> duximus exemplificand. per Preſentes. <hi>In cujus</hi> Rei Teſtimonium has literas noſtras fieri fecimus Patentes. <hi>Teſtibus</hi> no<g ref="char:EOLhyphen"/>bis ipſis apud <hi>Weſtmon.</hi> Quinto die <hi>Aprilis,</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regni eorum Quarto.</p>
+                  <closer>
+                     <signed>BRIDGES. <hi>Examinat. per nos</hi>
+                        <list>
+                           <item>
+                              <hi>Examinat. per nos</hi> S. Keck <hi>In Cancel. Magiſtros.</hi>
+                           </item>
+                           <item>
+                              <hi>Examinat. per nos</hi> Lacon W<hi rend="sup">m</hi>. Childe <hi>In Cancel. Magiſtros.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <trailer>FIN.</trailer>
+            </div>
+            <div xml:lang="fre" type="oath">
+               <pb facs="tcp:187847:9"/>
+               <head>Le ſerment de Fidelité ou Allegiance requis par le ſecond Article de ce Traitté.</head>
+               <p>Je <hi>A. B.</hi> promets avec ſincerité &amp; jure, que je fidelité &amp; vraye Lige<g ref="char:EOLhyphen"/>ance porteray à leures Majeſtez le Roy <hi>Guillaume</hi> &amp; la Reine <hi>Marie.</hi>
+               </p>
+               <closer>Qu'ainſi Dieu me ſoit en aide.</closer>
+               <pb facs="tcp:187847:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
